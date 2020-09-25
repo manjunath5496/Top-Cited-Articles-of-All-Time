@@ -19,29 +19,30 @@
    
  <li><a target="_blank" href="https://github.com/manjunath5496/Top-Cited-Articles-of-All-Time/blob/master/cite(10).pdf" style="text-decoration:none;">The Inflationary Universe: A Possible Solution to the Horizon and Flatness Problems</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Top-Cited-Articles-of-All-Time/blob/master/cite(11).pdf" style="text-decoration:none;">The Large N Limit of Superconformal field theories and supergravity</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Top-Cited-Articles-of-All-Time/blob/master/cite(12).pdf" style="text-decoration:none;">Neural Machine Translation of Rare Words with Subword Units</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Top-Cited-Articles-of-All-Time/blob/master/cite(13).pdf" style="text-decoration:none;">Multi-task Sequence to Sequence Learning</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Top-Cited-Articles-of-All-Time/blob/master/cite(12).pdf" style="text-decoration:none;">Gauge Theory Correlators from Non-Critical String Theory</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Top-Cited-Articles-of-All-Time/blob/master/cite(13).pdf" style="text-decoration:none;">Anti De Sitter Space And Holography</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Top-Cited-Articles-of-All-Time/blob/master/cite(14).pdf" style="text-decoration:none;">Improving Neural Machine Translation Models with Monolingual Data</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Top-Cited-Articles-of-All-Time/blob/master/cite(14).pdf" style="text-decoration:none;">The Hierarchy Problem and New Dimensions at a Millimeter</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Top-Cited-Articles-of-All-Time/blob/master/cite(15).pdf" style="text-decoration:none;">Sequence Level Training with Recurrent Neural Networks</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Top-Cited-Articles-of-All-Time/blob/master/cite(15).pdf" style="text-decoration:none;">Observational Evidence from Supernovae for an Accelerating Universe and a Cosmological Constant</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Top-Cited-Articles-of-All-Time/blob/master/cite(16).pdf" style="text-decoration:none;">Multi-Source Neural Translation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Top-Cited-Articles-of-All-Time/blob/master/cite(16).pdf" style="text-decoration:none;">Evidence for oscillation of atmospheric neutrinos</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Top-Cited-Articles-of-All-Time/blob/master/cite(17).pdf" style="text-decoration:none;">Multi-Way, Multilingual Neural Machine Translation with a Shared Attention Mechanism</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Top-Cited-Articles-of-All-Time/blob/master/cite(17).pdf" style="text-decoration:none;">Measurements of Ω and Λ from 42 High-Redshift Supernovae</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Top-Cited-Articles-of-All-Time/blob/master/cite(18).pdf" style="text-decoration:none;">Incorporating Structural Alignment Biases into an Attentional Neural Translation Model</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Top-Cited-Articles-of-All-Time/blob/master/cite(18).pdf" style="text-decoration:none;">A Large Mass Hierarchy
+from a Small Extra Dimension</a></li> 
 
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Top-Cited-Articles-of-All-Time/blob/master/cite(19).pdf" style="text-decoration:none;">Zero-Resource Translation with Multi-Lingual Neural Machine Translation</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Top-Cited-Articles-of-All-Time/blob/master/cite(19).pdf" style="text-decoration:none;">An Alternative to Compactification</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Top-Cited-Articles-of-All-Time/blob/master/cite(20).pdf" style="text-decoration:none;"> An Actor-Critic Algorithm for Sequence Prediction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Top-Cited-Articles-of-All-Time/blob/master/cite(20).pdf" style="text-decoration:none;"> GEANT4: A Simulation toolkit</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Top-Cited-Articles-of-All-Time/blob/master/cite(21).pdf" style="text-decoration:none;">Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Top-Cited-Articles-of-All-Time/blob/master/cite(22).pdf" style="text-decoration:none;">Neural Machine Translation in Linear Time</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Top-Cited-Articles-of-All-Time/blob/master/cite(21).pdf" style="text-decoration:none;">PYTHIA 6.4 Physics and Manual</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Top-Cited-Articles-of-All-Time/blob/master/cite(22).pdf" style="text-decoration:none;">The CMS experiment at the CERN LHC</a></li> 
  <li><a target="_blank" href="https://github.com/manjunath5496/Top-Cited-Articles-of-All-Time/blob/master/cite(23).pdf" style="text-decoration:none;">Neural Machine Translation with Reconstruction</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Top-Cited-Articles-of-All-Time/blob/master/cite(24).pdf" style="text-decoration:none;">Google's Multilingual Neural Machine Translation System: Enabling Zero-Shot Tra</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Top-Cited-Articles-of-All-Time/blob/master/cite(24).pdf" style="text-decoration:none;">The Hierarchy Problem and New Dimensions at a Millimeter</a></li>
  
  </ul>
