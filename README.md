@@ -46,5 +46,25 @@ from a Small Extra Dimension</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Top-Cited-Articles-of-All-Time/blob/master/cite(24).pdf" style="text-decoration:none;">The Hierarchy Problem and New Dimensions at a Millimeter</a></li>
    
 <li><a target="_blank" href="https://github.com/manjunath5496/Top-Cited-Articles-of-All-Time/blob/master/cite(25).pdf" style="text-decoration:none;">The ATLAS Experiment at the CERN Large Hadron Collider</a></li>  
+
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Top-Cited-Articles-of-All-Time/blob/master/cite(26).pdf" style="text-decoration:none;">Broken symmetries and mass formulae for vector mesons</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Top-Cited-Articles-of-All-Time/blob/master/cite(27).pdf" style="text-decoration:none;">Neutrino Mass and Spontaneous Parity Nonconservation</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-Cited-Articles-of-All-Time/blob/master/cite(28).pdf" style="text-decoration:none;">Lepton number as the fourth "color"</a></li> 
+ 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Top-Cited-Articles-of-All-Time/blob/master/cite(29).pdf" style="text-decoration:none;">Dynamical Model of Elementary Particles Based on an Analogy with Superconductivity</a></li>
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/Top-Cited-Articles-of-All-Time/blob/master/cite(30).pdf" style="text-decoration:none;">Unitary Symmetry and Leptonic Decays</a></li>  
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Top-Cited-Articles-of-All-Time/blob/master/cite(31).pdf" style="text-decoration:none;">Confinement of quarks</a></li> 
+
+
+
+
+
+
+
+
  
  </ul>
